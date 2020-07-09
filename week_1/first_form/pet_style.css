@@ -1,0 +1,22 @@
+selected_element {
+    css_property: value;
+}
+
+h1 {
+    color:green;
+    font-size: 5em;
+    outline: 2px dotted red;
+}
+#pet_name {
+    display:block;
+}
+
+div {
+    display: inline-block;
+    outline: 2px dotted green;
+}
+
+#fluff {
+    display: inline-block;
+    outline: 3px dotted red;
+}
